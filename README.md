@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 🔗 LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
 - 📧 Email: rodrigocist@gmail.com
 - 📰 CV : https://registry.jsonresume.org/rodrigocist
+- [My CV in JSON Resume](https://registry.jsonresume.org/rodrigocist)
+- [My LinkedIn](https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/)
 
       
       
