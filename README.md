@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sovos
 - 🌱 I’m currently learning Swift UI
-- 👯 I’m looking to collaborate on Cloud Serveless
+- 👯 I’m looking to collaborate on Cloud Serverless
 - 📫 How to reach me:
 - 🔗 LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
 - 📧 Email: rodrigocist@gmail.com
