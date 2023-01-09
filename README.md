@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift UI
 - 👯 I’m looking to collaborate on Cloud Serveless
 - 📫 How to reach me:
-      - LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
-      - Email: rodrigocist@gmail.com
-      - CV : https://registry.jsonresume.org/rodrigocist
+- 🔗 LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
+- 📧 Email: rodrigocist@gmail.com
+- 📰 CV : https://registry.jsonresume.org/rodrigocist
+
       
       
 [//]: <> (This is also a comment.)
