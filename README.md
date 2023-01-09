@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Cloud Serveless
 - 📫 How to reach me:
       - LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
-      - email: rodrigocist@gmail.com
+      - Email: rodrigocist@gmail.com
       - CV : https://registry.jsonresume.org/rodrigocist
       
       
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <!-- markdownlint-disable MD033 -->
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocist&layout=compact&show_icons=true&theme=onedark&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=juanmherrerav&theme=onedark&show_icons=true&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rodrigocist&theme=onedark&show_icons=true&count_private=true" />
 </p>
