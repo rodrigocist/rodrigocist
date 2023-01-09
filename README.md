@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Sovos
+- 🌱 I’m currently learning Swift UI
+- 👯 I’m looking to collaborate on Cloud Serveless
+- 📫 How to reach me:
+      LinkedIn : https://www.linkedin.com/in/rodrigo-cisternas-zanni-46a84076/
+      email: rodrigocist@gmail.com
+      CV : https://registry.jsonresume.org/rodrigocist
+
